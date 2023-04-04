@@ -8,5 +8,6 @@ Aqui estão algumas idéias para você começar:
 - 🌱 Atualmente estou aprendendo Git Bash.
 - 👯 Estou procurando colaborar em ...
 - 💬 Pergunte-me sobre qualquer coisa, vou tentar te ajudar.
-- 📫 Como entrar em contato comigo:arthur.ramosdesouza@gmail.com
---> Divirta-se.
+- 📫 Como entrar em contato comigo: arthur.ramosdesouza@gmail.com
+
+- --> Divirta-se.
